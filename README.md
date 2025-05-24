@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a full-stack software developer passionate about crafting clean, responsive, and user-friendly web applications. I recently completed an intensive software engineering program where I built and deployed multiple real-world applications.
+I'm a software developer passionate about crafting clean, responsive, and user-friendly web applications. I recently completed an intensive software engineering program at App Academy where I built and deployed multiple real-world applications.
 
 - 🔨 Built full-stack apps like:
   - **Neuronote** – a productivity app for managing notes, notebooks, and tasks  
